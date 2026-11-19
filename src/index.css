@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@import "tailwindcss";
+
+html {
+  scroll-behavior: smooth;
+  /* Плавный скролл для поддерживаемых браузеров */
+}
+
+/* Смягчаем скроллбар под музейную стилистику */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #121214;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #B89658;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #D4AF37;
+}

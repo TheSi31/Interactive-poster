@@ -16,7 +16,8 @@ export interface WomanData {
   militaryActivity: string;
   awards: string;
   postwarLife: string;
-  extraPhotos: string[];
+  extraPhotos?: string[];
+  videoUrl?: string;
 }
 
 export interface ActivityData {

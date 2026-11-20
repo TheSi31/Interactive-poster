@@ -20,7 +20,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onExplore }) => {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto mt-12">
         <div className="inline-block mb-4 px-4 py-1.5 rounded-full border border-[#B89658]/40 bg-[#5B1921]/30 backdrop-blur-md">
           <span className="text-xs uppercase tracking-[0.25em] text-[#B89658] font-medium">
-            Историко-патриотический музей
+            Интерактивный плакат
           </span>
         </div>
 

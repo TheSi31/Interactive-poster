@@ -34,7 +34,7 @@ export const WomenSection: React.FC<WomenSectionProps> = ({ women }) => {
         {/* Заголовок блока */}
         <div className="text-center max-w-2xl mx-auto mb-20">
           <span className="text-xs uppercase tracking-[0.25em] text-[#B89658] block mb-3 font-medium">
-            Пять судеб. Одна история мужества.
+            Пять судеб. Одна история мужества
           </span>
           <h2 className="font-serif text-3xl sm:text-5xl font-bold text-[#F7F4EE] mb-4">
             Женщины на войне

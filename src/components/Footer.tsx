@@ -11,7 +11,7 @@ export const Footer: React.FC = () => {
 
         <div className="flex flex-col items-center md:items-end gap-2">
           <p className="text-xs text-[#F7F4EE]/40 hover:text-[#F7F4EE]/80 transition-colors cursor-default">
-            © 2026 Краснобережский государственный аграрный колледж. Все права защищены.
+            © 2026 Краснобережский государственный аграрный колледж. Все права защищены
           </p>
           <a
             href="https://github.com/TheSi31/Virtual-Museum"

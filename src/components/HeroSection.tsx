@@ -30,7 +30,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onExplore }) => {
         </h1>
 
         <p className="text-lg sm:text-xl text-[#F7F4EE]/80 font-light tracking-wide max-w-2xl mx-auto mb-10 leading-relaxed">
-          Женские судьбы. История подвига. Память поколений.
+          Женские судьбы. История подвига. Память поколений
         </p>
 
         <div className="flex items-center justify-center">

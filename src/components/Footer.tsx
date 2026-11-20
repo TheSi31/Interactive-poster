@@ -14,7 +14,7 @@ export const Footer: React.FC = () => {
             © 2026 Краснобережский государственный аграрный колледж. Все права защищены
           </p>
           <a
-            href="https://github.com/TheSi31/Virtual-Museum"
+            href="https://github.com/TheSi31/Interactive-poster"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center space-x-1.5 text-xs text-[#F7F4EE]/45 hover:text-[#B89658] transition-colors"
